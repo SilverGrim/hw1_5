@@ -20,5 +20,4 @@ public class Problem5 {
 		System.out.printf("Your total comes out to: %.2f",total);
 		input.close();
 	}
-
 }
